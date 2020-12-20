@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "java-coding-shortcuts:fetch"
   },
-  "repository": "https://github.com/atom/java-coding-shortcuts",
+  "repository": "https://github.com/mrinal1894/java-coding-shortcuts.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
