@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "fetch java-coding-shortcuts",
+        "command": "java-coding-shortcuts:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "java-coding-shortcuts",
+          "submenu": [
+            {
+              "label": "fetch",
+              "command": "java-coding-shortcuts:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
